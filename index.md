@@ -8,3 +8,4 @@
 - [第７回　自作PCのはなし](https://tachibanahajime.github.io/group/no7 "第７回")  
 - [第８回　コーヒーを楽しもう](https://tachibanahajime.github.io/group/no8 "第８回")  
 - [第９回　筋トレしようぜ](https://tachibanahajime.github.io/group/no9 "第９回")  
+- [第10回　俺ら30代だし終活しようぜ！](https://tachibanahajime.github.io/group/no10 "第10回")  
