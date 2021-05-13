@@ -1,7 +1,7 @@
 # 勉強会資料  
 - [第１回　Covid-19について](https://tachibanahajime.github.io/group/no1 "第１回")  
 - [第２回　仕事をサクッと進めるためのおすすめツール３選](https://tachibanahajime.github.io/group/no2 "第２回")  
-- [第３回　株のはなし](https://tachibanahajime.github.io/group/no3 "第３回")  
+- [第３回　株式投資入門 vol.1](https://tachibanahajime.github.io/group/no3 "第３回")  
 - [第４回　蛋白質ってなんだろう？](https://tachibanahajime.github.io/group/no4 "第４回")  
 - [第５回　ティール組織 概論](https://tachibanahajime.github.io/group/no5 "第５回")  
 - [第６回　イノベーション・オブ・ライフ　経営論から "人生の理論" を学ぶ](https://tachibanahajime.github.io/group/no6 "第６回")  
@@ -10,3 +10,4 @@
 - [第９回　筋トレしようぜ](https://tachibanahajime.github.io/group/no9 "第９回")  
 - [第10回　俺ら30代だし終活しようぜ！](https://tachibanahajime.github.io/group/no10 "第10回")  
 - [第11回　「成長」の科学](https://tachibanahajime.github.io/group/no11 "第11回")  
+- [第12回　株式投資入門 vol.2](https://tachibanahajime.github.io/group/no12 "第12回")  
