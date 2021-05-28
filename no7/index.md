@@ -12,5 +12,5 @@
 <br>
 
 ## 資料  
-[資料](https://tachibanahajime.github.io/group/no7/no7.pdf "第７回")  
+[自作PCのはなし](https://tachibanahajime.github.io/group/no7/no7.pdf "第７回")  
 <br>

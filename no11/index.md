@@ -12,5 +12,5 @@
 <br>
 
 ## 資料  
-[資料](https://tachibanahajime.github.io/group/no11/no11.pdf "第11回")  
+[「成長」の科学](https://tachibanahajime.github.io/group/no11/no11.pdf "第11回")  
 <br>

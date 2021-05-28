@@ -12,5 +12,5 @@
 <br>
 
 ## 資料  
-[資料](https://tachibanahajime.github.io/group/no4/no4.pdf "第４回")  
+[蛋白質ってなんだろう？](https://tachibanahajime.github.io/group/no4/no4.pdf "第４回")  
 <br>

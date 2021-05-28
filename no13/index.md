@@ -12,5 +12,5 @@
 <br>
 
 ## 資料  
-[資料](https://tachibanahajime.github.io/group/no13/no13.pdf "第13回")  
+[人生を穏やかに生きる方法](https://tachibanahajime.github.io/group/no13/no13.pdf "第13回")  
 <br>

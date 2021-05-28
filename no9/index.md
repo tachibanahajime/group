@@ -12,5 +12,5 @@
 <br>
 
 ## 資料  
-[資料](https://tachibanahajime.github.io/group/no9/no9.pdf "第９回")  
+[筋トレしようぜ](https://tachibanahajime.github.io/group/no9/no9.pdf "第９回")  
 <br>

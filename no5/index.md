@@ -12,5 +12,5 @@
 <br>
 
 ## 資料  
-[資料](https://tachibanahajime.github.io/group/no5/no5.pdf "第５回")  
+[ティール組織 概論](https://tachibanahajime.github.io/group/no5/no5.pdf "第５回")  
 <br>

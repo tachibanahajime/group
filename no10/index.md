@@ -12,5 +12,5 @@
 <br>
 
 ## 資料  
-[資料](https://tachibanahajime.github.io/group/no10/no10.pdf "第10回")  
+[俺ら30代だし終活しようぜ！](https://tachibanahajime.github.io/group/no10/no10.pdf "第10回")  
 <br>

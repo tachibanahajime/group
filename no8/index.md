@@ -12,5 +12,5 @@
 <br>
 
 ## 資料  
-[資料](https://tachibanahajime.github.io/group/no8/no8.pdf "第８回")  
+[コーヒーを楽しもう](https://tachibanahajime.github.io/group/no8/no8.pdf "第８回")  
 <br>

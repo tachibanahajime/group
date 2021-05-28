@@ -12,5 +12,5 @@
 <br>
 
 ## 資料  
-[資料](https://tachibanahajime.github.io/group/no2/no2.pdf "第２回")  
+[仕事をサクッと進めるためのおすすめツール３選](https://tachibanahajime.github.io/group/no2/no2.pdf "第２回")  
 <br>

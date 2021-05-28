@@ -12,5 +12,5 @@ Covid-19について
 <br>
 
 ## 資料  
-[資料](https://tachibanahajime.github.io/group/no1/no1.pdf "第１回")  
+[Covid-19について](https://tachibanahajime.github.io/group/no1/no1.pdf "第１回")  
 <br>
