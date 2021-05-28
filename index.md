@@ -11,3 +11,4 @@
 - [第10回　俺ら30代だし終活しようぜ！](https://tachibanahajime.github.io/group/no10 "第10回")  
 - [第11回　「成長」の科学](https://tachibanahajime.github.io/group/no11 "第11回")  
 - [第12回　株式投資入門 vol.2](https://tachibanahajime.github.io/group/no12 "第12回")  
+- [第13回　人生を穏やかに生きる方法](https://tachibanahajime.github.io/group/no13 "第13回")  
