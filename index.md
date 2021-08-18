@@ -16,3 +16,4 @@
 - [第15回　マインドフルネス　~ Google式 科学的な瞑想法 ~](https://tachibanahajime.github.io/group/no15 "第15回")  
 - [第16回　宇宙って...夢あるよね...](https://tachibanahajime.github.io/group/no16 "第16回")  
 - [第17回　哲学してみよう - 自由・教育・愛の本質 -](https://tachibanahajime.github.io/group/no17 "第17回")  
+- [第18回　ゆるFIREを目指すために vol.1 【税金対策編】](https://tachibanahajime.github.io/group/no18 "第18回")  
