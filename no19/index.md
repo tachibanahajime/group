@@ -12,5 +12,5 @@ Prediction of protein structures
 <br>
 
 ## 資料  
-[Prediction of protein structures】](https://tachibanahajime.github.io/group/no19/no19.pdf "第19回")  
+[Prediction of protein structures](https://tachibanahajime.github.io/group/no19/no19.pdf "第19回")  
 <br>
