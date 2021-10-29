@@ -20,3 +20,4 @@
 - [第19回　Prediction of protein structures](https://tachibanahajime.github.io/group/no19 "第19回")  
 - [第20回　今日からはじめるGraph DB - neo4jでBook Networkを作ってみた -](https://tachibanahajime.github.io/group/no20 "第20回")  
 - [第21回　ブランディングとブランドマーケティング](https://tachibanahajime.github.io/group/no21 "第21回")  
+- [第22回　The art of Cysteine](https://tachibanahajime.github.io/group/no22 "第22回")  
