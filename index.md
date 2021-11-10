@@ -21,3 +21,4 @@
 - [第20回　今日からはじめるGraph DB - neo4jでBook Networkを作ってみた -](https://tachibanahajime.github.io/group/no20 "第20回")  
 - [第21回　ブランディングとブランドマーケティング](https://tachibanahajime.github.io/group/no21 "第21回")  
 - [第22回　The art of Cysteine](https://tachibanahajime.github.io/group/no22 "第22回")  
+- [第23回　Enjoy ONSEN！！！ - みんなだいすき温泉のはなし -](https://tachibanahajime.github.io/group/no23 "第23回")  
