@@ -22,3 +22,4 @@
 - [第21回　ブランディングとブランドマーケティング](https://tachibanahajime.github.io/group/no21 "第21回")  
 - [第22回　The art of Cysteine](https://tachibanahajime.github.io/group/no22 "第22回")  
 - [第23回　Enjoy ONSEN！！！ - みんなだいすき温泉のはなし -](https://tachibanahajime.github.io/group/no23 "第23回")  
+- [第24回　認知行動療法 ~ メンタル不調に陥る思考のクセに気づく ~](https://tachibanahajime.github.io/group/no24 "第24回")  
