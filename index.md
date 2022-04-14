@@ -24,3 +24,4 @@
 - [第23回　Enjoy ONSEN！！！ - みんなだいすき温泉のはなし -](https://tachibanahajime.github.io/group/no23 "第23回")  
 - [第24回　認知行動療法 ~ メンタル不調に陥る思考のクセに気づく ~](https://tachibanahajime.github.io/group/no24 "第24回")  
 - [第25回　Webスクレイピングによる非恣意的情報収集について　~ html と Python の読み方・使い方 ~](https://tachibanahajime.github.io/group/no25 "第25回")  
+- [第26回　いざ行かん、御開帳！ - 牛にひかれて善光寺参り -](https://tachibanahajime.github.io/group/no26 "第26回")  
