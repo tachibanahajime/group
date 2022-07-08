@@ -26,3 +26,4 @@
 - [第25回　Webスクレイピングによる非恣意的情報収集について　~ html と Python の読み方・使い方 ~](https://tachibanahajime.github.io/group/no25 "第25回")  
 - [第26回　いざ行かん、御開帳！ - 牛にひかれて善光寺参り -](https://tachibanahajime.github.io/group/no26 "第26回")  
 - [第27回　森田康介の無能の議論](https://tachibanahajime.github.io/group/no27 "第27回")  
+- [第28回　「未来人材ビジョン」ディスカッション](https://tachibanahajime.github.io/group/no28 "第28回")  
