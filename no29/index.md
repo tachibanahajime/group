@@ -12,5 +12,5 @@
 <br>
 
 ## 資料  
-[未来人材ビジョン](https://tachibanahajime.github.io/group/no29/no29.pdf "第29回")  
+[健康診断のススメ](https://tachibanahajime.github.io/group/no29/no29.pdf "第29回")  
 <br>
