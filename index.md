@@ -28,3 +28,4 @@
 - [第27回　森田康介の無能の議論](https://tachibanahajime.github.io/group/no27 "第27回")  
 - [第28回　「未来人材ビジョン」ディスカッション](https://tachibanahajime.github.io/group/no28 "第28回")  
 - [第29回　健康診断のススメ](https://tachibanahajime.github.io/group/no29 "第29回")  
+- [第30回　Three.jsのはなし](https://tachibanahajime.github.io/group/no30 "第30回")  
