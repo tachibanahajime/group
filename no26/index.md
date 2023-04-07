@@ -12,5 +12,5 @@
 <br>
 
 ## 資料  
-[いざ行かん、御開帳！ - 牛にひかれて善光寺参り -　※ダウンロードのみ](https://tachibanahajime.github.io/group/no26/no26.pdf "第26回")  
+[いざ行かん、御開帳！ - 牛にひかれて善光寺参り -　※リンク先からのダウンロードのみ](https://tachibanahajime.github.io/group/no26/no26.pdf "第26回")  
 <br>

@@ -12,5 +12,5 @@
 <br>
 
 ## 資料  
-[神山まるごと高専お披露目会レポート](https://tachibanahajime.github.io/group/no34/no34.pdf "第34回")  
+[神山まるごと高専お披露目会レポート　※リンク先からのダウンロードのみ](https://tachibanahajime.github.io/group/no34/no34.pdf "第34回")  
 <br>
