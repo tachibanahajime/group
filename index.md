@@ -32,3 +32,4 @@
 - [第31回　アイデアのつくり方 - ５Stepでできるアイデア創出 -](https://tachibanahajime.github.io/group/no31 "第31回")  
 - [第32回　シン・NISA制度について](https://tachibanahajime.github.io/group/no32 "第32回")  
 - [第33回　事業提案資料の共有](https://tachibanahajime.github.io/group/no33 "第33回")  
+- [第34回　神山まるごと高専お披露目会レポート](https://tachibanahajime.github.io/group/no34 "第34回")  
