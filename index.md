@@ -33,3 +33,4 @@
 - [第32回　シン・NISA制度について](https://tachibanahajime.github.io/group/no32 "第32回")  
 - [第33回　事業提案資料の共有](https://tachibanahajime.github.io/group/no33 "第33回")  
 - [第34回　神山まるごと高専お披露目会レポート](https://tachibanahajime.github.io/group/no34 "第34回")  
+- [第35回　よくわかる税金 Part.1 基本編](https://tachibanahajime.github.io/group/no35 "第35回")  
